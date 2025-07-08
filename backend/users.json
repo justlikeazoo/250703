@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "name": "김수민",
+    "nickname": "seongmingim",
+    "age": 40,
+    "purchase_history": [
+      4,
+      1,
+      24,
+      9,
+      8
+    ],
+    "weight": 59,
+    "height": 158,
+    "profile_image": "/images/profile1.jpg",
+    "bio": "Assumenda in adipisci dolor magnam ad dicta."
+  },
+  {
+    "id": 2,
+    "name": "정서윤",
+    "nickname": "eunju02",
+    "age": 43,
+    "purchase_history": [
+      4,
+      22,
+      24,
+      29,
+      18
+    ],
+    "weight": 50,
+    "height": 187,
+    "profile_image": "/images/profile2.jpg",
+    "bio": "Excepturi culpa vero excepturi at atque."
+  },
+  {
+    "id": 3,
+    "name": "조지원",
+    "nickname": "ybag",
+    "age": 33,
+    "purchase_history": [
+      2,
+      1,
+      3,
+      7,
+      8
+    ],
+    "weight": 77,
+    "height": 188,
+    "profile_image": "/images/profile3.jpg",
+    "bio": "Mollitia repudiandae nulla similique."
+  },
+  {
+    "id": 4,
+    "name": "한경희",
+    "nickname": "eungyeongmin",
+    "age": 20,
+    "purchase_history": [
+      18,
+      7,
+      23,
+      21,
+      14
+    ],
+    "weight": 59,
+    "height": 178,
+    "profile_image": "/images/profile4.jpg",
+    "bio": "Sint fugit iste rerum cum."
+  },
+  {
+    "id": 5,
+    "name": "장정식",
+    "nickname": "gangseongho",
+    "age": 38,
+    "purchase_history": [
+      9,
+      26,
+      28,
+      1,
+      25
+    ],
+    "weight": 55,
+    "height": 177,
+    "profile_image": "/images/profile5.jpg",
+    "bio": "Cum fugit voluptatibus odit nam."
+  },
+  {
+    "id": 6,
+    "name": "홍지영",
+    "nickname": "jeongsugsong",
+    "age": 30,
+    "purchase_history": [
+      9,
+      5,
+      7,
+      25,
+      11
+    ],
+    "weight": 51,
+    "height": 155,
+    "profile_image": "/images/profile6.jpg",
+    "bio": "Eaque distinctio velit soluta et omnis."
+  },
+  {
+    "id": 7,
+    "name": "허영길",
+    "nickname": "seongmin88",
+    "age": 32,
+    "purchase_history": [
+      4,
+      12,
+      28,
+      20,
+      9
+    ],
+    "weight": 47,
+    "height": 179,
+    "profile_image": "/images/profile7.jpg",
+    "bio": "Quia incidunt nesciunt facere voluptatum."
+  },
+  {
+    "id": 8,
+    "name": "박정훈",
+    "nickname": "gimseonghyeon",
+    "age": 37,
+    "purchase_history": [
+      4,
+      30,
+      13,
+      3,
+      18
+    ],
+    "weight": 63,
+    "height": 190,
+    "profile_image": "/images/profile8.jpg",
+    "bio": "Nisi harum nisi iusto dolorum mollitia."
+  },
+  {
+    "id": 9,
+    "name": "장미영",
+    "nickname": "eungyeong51",
+    "age": 39,
+    "purchase_history": [
+      29,
+      28,
+      12,
+      19,
+      7
+    ],
+    "weight": 90,
+    "height": 154,
+    "profile_image": "/images/profile9.jpg",
+    "bio": "Ipsa iste veritatis soluta ea."
+  },
+  {
+    "id": 10,
+    "name": "김하은",
+    "nickname": "jeongja89",
+    "age": 21,
+    "purchase_history": [
+      22,
+      8,
+      25,
+      10,
+      3
+    ],
+    "weight": 59,
+    "height": 156,
+    "profile_image": "/images/profile10.jpg",
+    "bio": "Corrupti quis molestiae quod minus."
+  },
+  {
+    "id": 11,
+    "name": "이경수",
+    "nickname": "jiyeong43",
+    "age": 32,
+    "purchase_history": [
+      9,
+      15,
+      21,
+      27,
+      12
+    ],
+    "weight": 55,
+    "height": 173,
+    "profile_image": "/images/profile11.jpg",
+    "bio": "Dolores necessitatibus aspernatur quasi."
+  },
+  {
+    "id": 12,
+    "name": "구옥자",
+    "nickname": "seojunbag",
+    "age": 31,
+    "purchase_history": [
+      7,
+      22,
+      9,
+      23,
+      30
+    ],
+    "weight": 88,
+    "height": 154,
+    "profile_image": "/images/profile12.jpg",
+    "bio": "Cumque minus non vitae ut quidem porro."
+  },
+  {
+    "id": 13,
+    "name": "이정숙",
+    "nickname": "jinho87",
+    "age": 39,
+    "purchase_history": [
+      21,
+      6,
+      18,
+      24,
+      8
+    ],
+    "weight": 55,
+    "height": 179,
+    "profile_image": "/images/profile13.jpg",
+    "bio": "Dolorum aperiam accusantium mollitia."
+  },
+  {
+    "id": 14,
+    "name": "김정희",
+    "nickname": "gimjieun",
+    "age": 32,
+    "purchase_history": [
+      9,
+      30,
+      21,
+      23,
+      18
+    ],
+    "weight": 59,
+    "height": 170,
+    "profile_image": "/images/profile14.jpg",
+    "bio": "Architecto dolores pariatur distinctio consequatur vel."
+  },
+  {
+    "id": 15,
+    "name": "박지우",
+    "nickname": "ggim",
+    "age": 46,
+    "purchase_history": [
+      25,
+      2,
+      8,
+      27,
+      26
+    ],
+    "weight": 65,
+    "height": 175,
+    "profile_image": "/images/profile15.jpg",
+    "bio": "Explicabo illum sint amet officiis officia."
+  },
+  {
+    "id": 16,
+    "name": "서주원",
+    "nickname": "gimseunghyeon",
+    "age": 28,
+    "purchase_history": [
+      3,
+      7,
+      30,
+      19,
+      29
+    ],
+    "weight": 90,
+    "height": 170,
+    "profile_image": "/images/profile16.jpg",
+    "bio": "Consequuntur delectus iure soluta asperiores repellat sequi."
+  },
+  {
+    "id": 17,
+    "name": "윤영철",
+    "nickname": "jucaeweon",
+    "age": 26,
+    "purchase_history": [
+      21,
+      16,
+      13,
+      29,
+      30
+    ],
+    "weight": 86,
+    "height": 179,
+    "profile_image": "/images/profile17.jpg",
+    "bio": "Cumque laborum distinctio id animi."
+  },
+  {
+    "id": 18,
+    "name": "민상훈",
+    "nickname": "si",
+    "age": 24,
+    "purchase_history": [
+      9,
+      5,
+      8,
+      24,
+      18
+    ],
+    "weight": 79,
+    "height": 166,
+    "profile_image": "/images/profile18.jpg",
+    "bio": "Optio laborum deleniti dolor animi quasi aperiam."
+  },
+  {
+    "id": 19,
+    "name": "김영수",
+    "nickname": "minseogbag",
+    "age": 43,
+    "purchase_history": [
+      19,
+      14,
+      29,
+      13,
+      12
+    ],
+    "weight": 59,
+    "height": 158,
+    "profile_image": "/images/profile19.jpg",
+    "bio": "Architecto architecto similique illo."
+  },
+  {
+    "id": 20,
+    "name": "최은경",
+    "nickname": "gangjihu",
+    "age": 36,
+    "purchase_history": [
+      16,
+      3,
+      25,
+      2,
+      28
+    ],
+    "weight": 52,
+    "height": 159,
+    "profile_image": "/images/profile20.jpg",
+    "bio": "Natus et ea pariatur et eaque consectetur officia."
+  }
+]
